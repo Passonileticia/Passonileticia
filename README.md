@@ -1,8 +1,8 @@
-# Olá, eu sou a Leticia Passoni👋
+# Olá, sou a Leticia Passoni👋
 ## Bem vindo ao meu perfil do GitHub,  bora Codar juntos? 👩‍💻👨‍💻 
-<p> Tenho 26 anos e sou formada como auxiliar de enfermagem. Moro em São José dos Campos - SP, e atualmente trabalho no atendimento residencial de pacientes com lesões de pele, feridas e medicação intravenosa ou intramuscular. Gosto de identificar a necessidade de meus clinetes e gerar a resolução.</p>
-<p> Estou em processo de migração para a área de Tecnologia da Informação (TI), estudo Análise e Desenvolvimento de Sistemas na Uninter desde maio de 2023. Meu objetivo é encontrar uma oportunidade de atuação na área de TI, onde eu possa aplicar e aprimorar meus conhecimento, contribuindo para o desenvolvimento de soluções inovadoras que beneficiem a sociedade como um todo. </p> 
-<p> Apaixonada por aprender, por curiosidade, manter boas relações e fazer novas amizades! </p>
+<p> Tenho 26 anos e sou formada como auxiliar de enfermagem. Moro em São José dos Campos - SP, e atualmente trabalho no atendimento residencial de pacientes com lesões de pele, feridas e medicação intravenosa ou intramuscular. Gosto de identificar as necessidades dos meus clientes e encontrar soluções para elas. </p>
+<p> Estou em processo de migração para a área de Tecnologia da Informação (TI). Estudo Análise e Desenvolvimento de Sistemas na Uninter desde maio de 2023. Meu objetivo é encontrar uma oportunidade de atuação na área de TI, onde eu possa aplicar e aprimorar meus conhecimentos, contribuindo para o desenvolvimento de soluções inovadoras que beneficiem a sociedade como um todo.</p> 
+<p> Sou apaixonada por aprender, por curiosidade, por manter boas relações e fazer novas amizades!! </p>
 
 # Ferramentas e Tecnologias 
 <div class="image-container">
