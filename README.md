@@ -44,3 +44,6 @@
   <img loading="lazy" src="https://github.com/Passonileticia/Passonileticia/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
 
+<div>
+  ![Snake animation](https://github.com/Passonileticia/Passonileticia/blob/output/github-contribution-grid-snake.svg)
+</div>
