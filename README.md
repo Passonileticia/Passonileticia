@@ -30,22 +30,17 @@
 
 
 <div>
-  <a href="https://github.com/Passonileticia" style="display: inline-block;">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Passonileticia&layout=compact&langs_count=7&theme=dracula" style="display: inline-block;"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Passonileticia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="display: inline-block;"/>
+  <a href="https://github.com/Passonileticia" class="image-container">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Passonileticia&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Passonileticia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
 
+## Olha a cobra
 
 
-
-
-
-
-
-
-  
 <div>
-  ![Snake animation](https://github.com/Passonileticia/Passonileticia/blob/output/github-contribution-grid-snake.svg)
+  <img loading="lazy" src="https://github.com/Passonileticia/Passonileticia/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
+
