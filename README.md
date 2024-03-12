@@ -4,6 +4,10 @@
 <p> Estou em processo de migração para a área de Tecnologia da Informação (TI). Estudo Análise e Desenvolvimento de Sistemas na Uninter desde maio de 2023. Meu objetivo é encontrar uma oportunidade de atuação na área de TI, onde eu possa aplicar e aprimorar meus conhecimentos, contribuindo para o desenvolvimento de soluções inovadoras que beneficiem a sociedade como um todo.</p> 
 <p> Sou apaixonada por aprender, por curiosidade, por manter boas relações e fazer novas amizades!! </p>
 
+# Projetos
+<p> https://passonileticia.github.io/Projeto-site-king/ </p>
+
+
 # Ferramentas e Tecnologias 
 <div class="image-container">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
