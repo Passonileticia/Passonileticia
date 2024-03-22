@@ -7,6 +7,8 @@
 # Projetos
 <p> https://passonileticia.github.io/Projeto-site-king/ </p>
 
+<p> https://passonileticia.github.io/rocketseat-portfolioleticia/ </p>
+
 
 # Ferramentas e Tecnologias 
 <div class="image-container">
