@@ -5,6 +5,9 @@
 <p> Sou apaixonada por aprender, por curiosidade, por manter boas relações e fazer novas amizades!! </p>
 
 # Projetos
+
+<p> https://portfolio-2025-three-delta.vercel.app/ </p>
+
 <p> https://passonileticia.github.io/Projeto-site-king/ </p>
 
 <p> https://passonileticia.github.io/rocketseat-portfolioleticia/ </p>
