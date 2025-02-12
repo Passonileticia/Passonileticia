@@ -1,8 +1,22 @@
 # Olá, sou a Leticia Passoni👋
-## Bem vindo ao meu perfil do GitHub,  bora Codar juntos? 👩‍💻👨‍💻 
-<p> Tenho 26 anos e sou formada como auxiliar de enfermagem. Moro em São José dos Campos - SP, e atualmente trabalho no atendimento residencial de pacientes com lesões de pele, feridas e medicação intravenosa ou intramuscular. Gosto de identificar as necessidades dos meus clientes e encontrar soluções para elas. </p>
-<p> Estou em processo de migração para a área de Tecnologia da Informação (TI). Estudo Análise e Desenvolvimento de Sistemas na Uninter desde maio de 2023. Meu objetivo é encontrar uma oportunidade de atuação na área de TI, onde eu possa aplicar e aprimorar meus conhecimentos, contribuindo para o desenvolvimento de soluções inovadoras que beneficiem a sociedade como um todo.</p> 
-<p> Sou apaixonada por aprender, por curiosidade, por manter boas relações e fazer novas amizades!! </p>
+## Bem vindo ao meu perfil do GitHub,  bora Codar? 👩‍💻👨‍💻 
+
+<p> Busco uma oportunidade profissional na área de dados como Cientista de Dados Jr., Analista de Dados Jr., BI Jr ou em posições relacionadas, que permita meu crescimento intelectual, profissional e técnico, assim podendo contribuir com ela por muito tempo, à medida que crescemos juntos. </p>
+
+<p> Estou entusiasmada para aplicar minhas habilidades analíticas e conhecimentos em um ambiente dinâmico e desafiador. </p>
+
+<p> Finalizando a formação em Ciência de Dados pela DNC e formada em Fundamentos de Data Science e Inteligência Artificial pela Data Science Academy, Lógica de Programação e Python pelo Curso em Vídeo, Desenvolvimento Web pelo Senac SJC e Auxiliar de Enfermagem pela Tableau - SJC. </p>
+
+<p> Minhas habilidades incluem comunicação, trabalho em equipe, criatividade, flexibilidade, inteligência emocional, gerenciamento de tempo, paixão pelo aprendizado contínuo, empatia e foco em qualidade no atendimento. Além disso, tenho domínio em Pacote Office Avançado, Git, GitHub, Figma, Canva, Power BI, Python (Pandas), VBA, SQL, NoSQL, HTML, CSS, JavaScript, Trello e UI/UX Design. </p>
+
+<p> Tenho experiência profissional como Assistente de Criação na Tecpower Jacareí/SP, Auxiliar de Enfermagem na Santa Casa de São José dos Campos e Coop Saúde, Suporte Técnico na Atento Brasil S/A e Assistente Administrativo na Displan Encomendas Urgentes Ltda.</p>
+
+<p> Valorizo o trabalho em equipe e acredito que a colaboração é fundamental para o sucesso de qualquer projeto. Tenho prazer em cooperar com todos, oferecendo ajuda da melhor maneira possível. Além disso, gosto de ensinar e aprender continuamente, compartilhando conhecimentos e absorvendo novas informações para me aperfeiçoar constantemente. </p>
+
+<p> Caso tenha interesse em meu perfil para alguma oportunidade ou queira manter contato para novas ideias, sugestões ou parceria estou à disposição para conversarmos. </p>
+
+<p> (12) 98808-5524 </p>
+<p>leticiapassoni@hotmail.com </p>
 
 # Projetos
 
@@ -10,7 +24,7 @@
 
 <p> https://passonileticia.github.io/Projeto-site-king/ </p>
 
-<p> https://passonileticia.github.io/rocketseat-portfolioleticia/ </p>
+
 
 <h3> Ciência de Dados <h3>
 <p>https://docs.google.com/spreadsheets/d/17jMdAhLkupZjexGmGnSAZADCTlbkxsV0NcOwkBrEbF8/edit?usp=sharing</p>
