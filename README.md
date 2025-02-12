@@ -27,7 +27,7 @@
 
 
 <h3> Ciência de Dados <h3>
-<p>https://docs.google.com/spreadsheets/d/17jMdAhLkupZjexGmGnSAZADCTlbkxsV0NcOwkBrEbF8/edit?usp=sharing</p>
+
 
 # Ferramentas e Tecnologias 
 <div class="image-container">
