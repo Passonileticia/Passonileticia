@@ -1,7 +1,7 @@
 # Olá, sou a Leticia Passoni👋
 ## Bem vindo ao meu perfil do GitHub,  bora Codar? 👩‍💻👨‍💻 
 
-<p> Busco uma oportunidade profissional na área de dados como Cientista de Dados Jr., Analista de Dados Jr., BI Jr ou em posições relacionadas, que permita meu crescimento intelectual, profissional e técnico, assim podendo contribuir com ela por muito tempo, à medida que crescemos juntos. </p>
+<p> Busco uma oportunidade profissional na área de dados como Analista de Dados Jr., BI Jr ou em posições relacionadas, que permita meu crescimento intelectual, profissional e técnico, assim podendo contribuir com ela por muito tempo, à medida que crescemos juntos. </p>
 
 <p> Estou entusiasmada para aplicar minhas habilidades analíticas e conhecimentos em um ambiente dinâmico e desafiador. </p>
 
