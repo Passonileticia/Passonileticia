@@ -13,12 +13,11 @@
 
 <p>Leticia Passoni / (12) 98808-5524 / leticiapassoni@hotmail.com </p>
 
-# Projetos
-
+# Portfolio
 <p> https://portfolio-2025-three-delta.vercel.app/ </p>
 
+# Projetos
 <p> https://passonileticia.github.io/Projeto-site-king/ </p>
-
 
 
 # Ciência de Dados 
