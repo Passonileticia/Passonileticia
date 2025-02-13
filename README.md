@@ -1,13 +1,15 @@
 # Olá, sou a Leticia Passoni👋
 ## Bem vindo ao meu perfil do GitHub,  bora gerar a evolução? 👩‍💻👨‍💻 
 
-<p>Apaixonada por transformar dados em insights estratégicos!</p>
- 
-<p>Busco uma oportunidade como Analista de Dados / BI, aplicando conhecimentos em SQL, Power BI, Python e visualização de dados para impulsionar a tomada de decisão.</p>
+<h2>Oie! Aqui é a Leticia! </h2>
 
-<p>🎯 Habilidades: Análise de dados, dashboards, relatórios gerenciais, ETL, SQL, Power BI, Python (Pandas, NumPy), modelagem de dados, storytelling com dados, Excel, Google Sheets.</p>
+<p>Sou apaixonada por dados e pela forma como eles contam histórias e ajudam a transformar o futuro. Atualmente, estou em transição para a área de análise de dados, unindo minha experiência na área da saúde e no setor administrativo a habilidades analíticas para gerar insights estratégicos.</p>
 
-<p>📚 Formação: Ciência de Dados (DNC) | Fundamentos de Data Science (Data Science Academy)</p>
+<p>Sou formada como auxiliar de enfermagem, o que me trouxe uma ampla bagagem em organização, tomada de decisão sob pressão e resolução de problemas. Minha trajetória profissional inclui experiência em área administrativa, logística, call center e atendimento ao público, o que fortaleceu minha capacidade de estruturar dados, otimizar processos e solucionar desafios com uma abordagem estratégica.</p>
+
+<p>Com formação em Ciência de Dados pela DNC, desenvolvi competências em ETL, SQL, Python, Power BI, estatística e storytelling com dados. Minha experiência em diferentes setores me permitiu desenvolver habilidades valiosas, como comunicação eficaz, trabalho em equipe e resolução de problemas, características essenciais para atuar na área de dados.</p>
+
+<p>Sou uma pessoa carismática, proativa e com grande facilidade para trabalhar em equipe. Além da minha carreira, sou apaixonada por jiu-jitsu, onde sou faixa roxa e, nas horas vagas, treino e sou voluntária dando aulas para crianças. Também participo de projetos sociais voltados para crianças carentes, o que fortalece meu senso de empatia e comprometimento com o impacto positivo na sociedade.</p>
 
 <p>🚀 Aberta a oportunidades! Vamos conectar?</p>
 
