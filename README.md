@@ -1,5 +1,5 @@
 # Olá, sou a Leticia Passoni👋
-## Bem vindo ao meu perfil do GitHub,  bora Codar? 👩‍💻👨‍💻 
+## Bem vindo ao meu perfil do GitHub,  bora gerar a evolução? 👩‍💻👨‍💻 
 
 <p>Apaixonada por transformar dados em insights estratégicos!</p>
  
