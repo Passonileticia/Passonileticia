@@ -21,7 +21,23 @@
 
 
 
-<h3> Ciência de Dados <h3>
+# Ciência de Dados 
+<h5> Todas as informações contidas nesta análise de dados foram tratadas com o máximo de sigilo e segurança. Seguimos rigorosamente os princípios e regulamentos estabelecidos pela Lei Geral de Proteção de Dados (LGPD), garantindo que os dados pessoais sejam manipulados de maneira ética e responsável.  </h5>
+<br>
+<h5> A cada nova análise e criação, ocorre um processo de melhoria. Cada passo, cada dado analisado, contribui para um entendimento mais profundo e refinado, garantindo que estamos sempre evoluindo e adaptando-nos às necessidades em constante mudança. Este ciclo de aperfeiçoamento incessante assegura que nossas análises se tornem progressivamente mais precisas e valiosas, fomentando um ambiente de aprendizado e crescimento contínuo.</h5>
+
+<h2> Análise melhor apartamento para locação </h2>
+<p>https://github.com/Passonileticia/analise_melhor_locacao/blob/main/busca_locacao_266.ipynb</p>
+
+<h2> Case01 - Análise Vaquinha Solidária </h2>
+<p> https://github.com/Passonileticia/analise_vaquinhasolidaria/blob/main/aula_304.ipynb </p>
+
+<h2> Teste Regressão Linear teste </h2>
+<p> https://github.com/Passonileticia/regressao_linear_290/blob/main/Regress%C3%A3o_linear_290.ipynb </p>
+
+<h2> Análise Empresa Varejista </h2>
+<p>https://github.com/Passonileticia/analise_empresa_varejista/blob/main/empresa_varejista_275.ipynb </p>
+
 
 
 # Ferramentas e Tecnologias 
