@@ -19,7 +19,7 @@
 # Projetos
 <p> https://passonileticia.github.io/Projeto-site-king/ </p>
 
-
+<!--
 # Ciência de Dados 
 <h5> Todas as informações contidas nesta análise de dados foram tratadas com o máximo de sigilo e segurança. Seguimos rigorosamente os princípios e regulamentos estabelecidos pela Lei Geral de Proteção de Dados (LGPD), garantindo que os dados pessoais sejam manipulados de maneira ética e responsável.  </h5>
 
@@ -36,7 +36,7 @@
 
 <h2> Case04 - Análise Empresa Varejista </h2>
 <p>https://github.com/Passonileticia/analise_empresa_varejista/blob/main/empresa_varejista_275.ipynb </p>
-
+-->
 
 <!--
 # Ferramentas e Tecnologias 
